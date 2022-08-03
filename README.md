@@ -1,5 +1,7 @@
 # Get started with Angular and MapLibre GL JS
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Quick way to star a web map application with MapLibre GL JS using Angular.
 
 A simple fullscreen map application as an example on how to use MapTiler maps together with Angular and MapLibre GL JS for your own Angular app.
@@ -42,4 +44,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Learn More
 
-You can learn more at [How to display a map in Angular using MapLibre GL JS](https://docs.maptiler.com/angular/maplibre-gl-js/how-to-use-maplibre-gl-js/).
+You can learn more at [How to display a map in Angular using MapLibre GL JS](https://docs.maptiler.com/angular/maplibre-gl-js/how-to-use-maplibre-gl-js/?utm_medium=referral&utm_source=github&utm_campaign=2022-05%20%7C%20js%20frameworks%20%7C%20angular).
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
