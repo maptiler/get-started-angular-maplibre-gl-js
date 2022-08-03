@@ -42,4 +42,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Learn More
 
-You can learn more at [How to display a map in Angular using MapLibre GL JS](https://documentation.maptiler.com/hc/en-us/articles/4411342514193-How-to-display-a-map-in-Angular-using-MapLibre-GL-JS).
+You can learn more at [How to display a map in Angular using MapLibre GL JS](https://docs.maptiler.com/angular/maplibre-gl-js/how-to-use-maplibre-gl-js/).
