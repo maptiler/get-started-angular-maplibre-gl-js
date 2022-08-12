@@ -11,9 +11,6 @@ export class AppComponent implements AfterViewInit {
   private mapContainer!: ElementRef<HTMLElement>;
 
   ngAfterViewInit() {
-    // This API key is for use only in stackblitz.com
-    // Get your Geoapify API key on https://www.geoapify.com/get-started-with-maps-api
-    // The Geoapify service is free for small projects and the development phase.
     const myAPIKey = 'YOUR_MAPTILER_API_KEY_HERE';
     const mapStyle = 'https://api.maptiler.com/maps/streets/style.json';
 
